@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hey! This is my github where I store version backups to coding projects, files for sharing, and more
 <!--
 **Fordywhat/Fordywhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
